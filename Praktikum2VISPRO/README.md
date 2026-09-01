@@ -1,7 +1,6 @@
 # 🚀 Praktikum Pemrograman Visual 
 
 
-
 ---
 
 ## 🛠️ Stack & Perkakas Pengembangan
